@@ -1,1 +1,1 @@
-# sept-week-6-numero-2
+# SEPT Week 6
