@@ -8,10 +8,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @SpringBootTest
 public class SpringBootDemoApplicationTests {
-
 	@Test
 	public void contextLoads() {
-		throw new RuntimeException();
 	}
-
 }
