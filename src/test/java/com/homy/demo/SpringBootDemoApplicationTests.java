@@ -11,7 +11,7 @@ public class SpringBootDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
+		throw new RuntimeException();
 	}
 
 }
